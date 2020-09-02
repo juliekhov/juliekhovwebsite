@@ -1,2 +1,2 @@
 # juliekhovwebsite
-website for the fourth time i hate netlify
+website for reasons why I would like to join lambda school
